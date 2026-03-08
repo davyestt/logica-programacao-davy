@@ -1,3 +1,5 @@
+EXERCÍCIO DE LÓGICA DE PROGRAMAÇÃO 
+
 1 - Um algortmo é sequência de instruções de passo a passo para  realizar uma tarefa ou resolver um problema. 
 2 - Entrada: São informações ou dados necessários 
  - Processamento: Os passos lógicos aplicados a informação
